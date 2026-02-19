@@ -1,47 +1,44 @@
-# Agent AI – asystent potwierdzenia projektu
+AI Agent – ​​Project Confirmation Assistant
 
-Webowa aplikacja wspierająca potwierdzanie realizacji projektów oraz komunikację z klientem.
-Projekt tworzony jako pierwsza aplikacja webowa, z naciskiem na czytelną architekturę,
-stabilność i możliwość dalszej rozbudowy.
+A web application supporting project completion confirmation and client communication.
+This project is being developed as a first-time web application, with a focus on a clear architecture, stability, and the potential for further expansion.
 
-## Cel projektu
+Project Goal
 
-Celem aplikacji jest:
-- wspieranie procesu potwierdzania realizacji projektu,
-- uporządkowanie komunikacji z klientem,
-- automatyzacja wybranych etapów pracy projektowej,
-- stworzenie solidnej bazy pod dalszy rozwój funkcji opartych o AI.
+The application's goal is to:
+- support the project completion confirmation process,
+- streamline client communication,
+- automate selected stages of project work,
+- create a solid foundation for further development of AI-based features.
 
-## Zakres (MVP)
+Scope (MVP)
 
-- aplikacja webowa (backend + frontend),
-- obsługa podstawowych danych projektu,
-- logika potwierdzania etapów realizacji,
-- przygotowanie struktury pod integrację z modułami AI.
+- web application (backend + frontend),
+- manage basic project data,
+- logic for confirming completion stages,
+- prepare the structure for integration with AI modules.
 
-## Technologia
+Technology
 
-Projekt tworzony w oparciu o:
+The project is based on:
 - Python
-- architekturę modułową
-- czytelną strukturę katalogów
-- możliwość łatwego testowania i rozbudowy
+- modular architecture
+- clear directory structure
+- easy testing and expansion
 
-Szczegóły techniczne będą rozwijane wraz z kolejnymi etapami projektu.
+Technical details will be developed as the project progresses.
 
-## Struktura projektu
+## Project Structure
 
-src/        – główna logika aplikacji
-tests/      – testy
-docs/       – dokumentacja
-scripts/    – skrypty pomocnicze
+src/ – main application logic
+tests/ – tests
+docs/ – documentation
+scripts/ – support scripts
 
+## Project Status
 
-## Status projektu
+The project is in its initial phase.
+The first stage involves preparing the structure and basic application logic.
 
-Projekt w fazie inicjalnej.
-Pierwszy etap obejmuje przygotowanie struktury oraz podstawowej logiki aplikacji.
-
-## Autor
-
+## Author
 Andrzej Dobrucki
